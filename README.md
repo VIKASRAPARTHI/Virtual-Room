@@ -65,7 +65,7 @@ Virtual Room is an enterprise-level video and audio conferencing web application
     Run the following command in your terminal or command prompt to clone the repository to your local machine:
 
     ```bash
-        https://github.com/VIKASRAPARTHI/Virtual-Room.git
+        git clone https://github.com/VIKASRAPARTHI/Virtual-Room.git
     ```
 
 2. **Navigate to the Directory:** 
